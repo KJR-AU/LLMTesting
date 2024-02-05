@@ -1,0 +1,12 @@
+*.log
+.env
+venv*/
+.ipynb_checkpoints
+.DS_STORE
+*temp_test_run_data.json
+*.deepeval
+*.sqlite
+*__pycache__
+data/*
+.streamlit*
+.code-workspace

@@ -1,0 +1,13 @@
+python-dotenv
+langchain
+openai
+langchain-openai
+langchain-community
+chromadb
+ipykernel
+pandas
+Pyarrow
+trulens-eval
+deepeval
+ipython
+ipywidgets

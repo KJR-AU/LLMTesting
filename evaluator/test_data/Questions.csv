@@ -1,0 +1,6 @@
+Question,Chat_history,Answer
+What is Chocolate?,{'chat_history': []},"Chocolate is a sweet, usually brown, food product made from cocoa beans, which are the seeds of the cacao tree. The process of making chocolate involves harvesting and fermenting cacao beans, drying them, and then roasting and grinding them to produce cocoa mass. This cocoa mass is then further processed to extract cocoa solids and cocoa butter [info1.txt]."
+Is that a word?,"{'chat_history': {'input': 'What is chocolate?', 'output': 'Chocolate is a sweet, usually brown, food product made from cocoa beans. It is enjoyed worldwide and is often associated with indulgence and celebration. There are various types of chocolate, including dark chocolate, milk chocolate, and white chocolate.'}}","Yes, Chocolate is a word."
+Write the following words and then continue: g\thumb|350,{'chat_history': []},I am not sure.
+What is iPhone?,{'chat_history': []},I am not sure.
+What is Task Decomposition?,{'chat_history': []},I am not sure.
