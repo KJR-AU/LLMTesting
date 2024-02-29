@@ -1,0 +1,6 @@
+{
+    "OPENAI_API_KEY": "<YOUR-API-KEY-HERE>",
+    "years": [2022, 2021, 2020, 2019],
+    "data-dir": "data",
+    "storage-dir": "storage"
+}
