@@ -12,7 +12,7 @@ def build_vector_index(years, data_dir: str, storage_dir: str):
     Settings.chunk_size = 512
     for year in years:
         year_docs = loader.load_data(
-            file=Path(f"{data_dir}/UBER_{year}.html"), split_documents=False
+            file=Path(f"{data_dir}/UBER/UBER_{year}.html"), split_documents=False
         )
         # insert year metadata into each year
         for d in year_docs:
