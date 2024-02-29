@@ -23,7 +23,7 @@ openai.api_key = os.environ["OPENAI_API_KEY"]
 # used by a chat model. 
 index_set = {}
 individual_query_engine_tools = []
-for year in [2022, 2021, 2020, 2019]:
+for year in config['years']:
     storage_context = StorageContext.from_defaults(
         persist_dir=os.path.join(storage_dir, f"{year}")
     )
